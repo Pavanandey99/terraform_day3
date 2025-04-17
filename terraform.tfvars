@@ -1,2 +1,2 @@
 image = ""
-type = ""
+type = "t3.micro"
